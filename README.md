@@ -24,3 +24,9 @@ autotrain llm --train --project_name my-llama --model meta-llama/Llama-2-7b-hf -
 ```
 
 Make sure to replace my-llama with your desired project name and configure the data path, learning rate, batch size, and number of training epochs as needed.
+
+
+# refrence
+https://about.fb.com/news/2023/07/llama-2/
+
+https://huggingface.co/docs/transformers/main/model_doc/llama2
